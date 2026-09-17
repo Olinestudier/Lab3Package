@@ -1,0 +1,22 @@
+Package: Lab3Package
+Type: Package
+Title: Lab 3 Euclidean and Dijkstra Algorithms
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "netja249",
+      email = "netja249@student.liu.se"
+      
+    )
+  )
+Description: Implements the Euclidean algorithm to find the greatest common divisor of two integers 
+    and Dijkstra's algorithm to calculate the shortest paths in a graph.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+Config/roxygen2/version: 8.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
