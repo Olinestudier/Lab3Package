@@ -4,8 +4,10 @@ Title: Lab 3 Euclidean and Dijkstra Algorithms
 Version: 0.1.0
 Authors@R: c(
     person(
-      "netja249",
-      email = "netja249@student.liu.se"
+      given = "netja249",
+      family = "student",
+      email = "netja249@student.liu.se",
+      role = c("aut", "cre")
     )
   )
 Description: Implements the Euclidean algorithm to find the greatest common divisor of two integers 

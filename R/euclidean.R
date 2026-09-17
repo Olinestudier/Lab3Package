@@ -14,7 +14,7 @@
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)
 euclidean <- function(a, b) {
-
+  # Input assertions: Check if arguments are numeric scalars or integers
   stopifnot(is.numeric(a), length(a) == 1)
   stopifnot(is.numeric(b), length(b) == 1)
 
