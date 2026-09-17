@@ -6,7 +6,6 @@ Authors@R: c(
     person(
       "netja249",
       email = "netja249@student.liu.se"
-      
     )
   )
 Description: Implements the Euclidean algorithm to find the greatest common divisor of two integers 
@@ -20,3 +19,5 @@ Config/roxygen2/version: 8.1.0
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/Olinestudier/Lab3Package
+BugReports: https://github.com/Olinestudier/Lab3Package/issues
